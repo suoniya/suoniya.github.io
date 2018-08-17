@@ -11,7 +11,7 @@ github_repo: "https://github.com/suoniya/suoniya.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "可能是最空的一个博客了!"
+sidebar-about-description: "可能是有史以来最空的博客了，因为我压根就不会使用🤣!"
 sidebar-avatar: /img/about_liuruining.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
