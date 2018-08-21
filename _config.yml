@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 550906133@qq.com
 description: "也温柔，也英勇"
 keyword: "SNY, SNY Blog, 索尼娅的博客, suoniya, liuruining"
-url: "http://suoniya.github.io"          # your host, for absolute URL
+# url: "http://suoniya.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/suoniya/suoniya.github.io.git" # you code repository
+# github_repo: "https://github.com/suoniya/suoniya.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
