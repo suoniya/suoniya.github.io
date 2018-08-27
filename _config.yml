@@ -67,7 +67,7 @@ gitalk:
   repo: suoniya.github.io    #仓库名称
   owner: suoniya    #github用户名
   admin: suoniya
-  id: md5(location.href)
+  id: location.pathname
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
